@@ -42,3 +42,15 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+## Assets 3
+[releases.apk](https://github.com/mikrodinet/webview/releases/download/releases/releases.apk)
+19.5 MB
+yesterday
+[Source code](https://github.com/mikrodinet/webview/archive/refs/tags/releases.zip)
+(zip)
+yesterday
+[Source code](https://github.com/mikrodinet/webview/archive/refs/tags/releases.tar.gz)
+(tar.gz)
+yesterday
