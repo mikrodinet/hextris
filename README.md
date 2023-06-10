@@ -27,6 +27,21 @@ Hextris was created by a couple high school friends (who are now in college!) wh
 
 ETH: `0xbf5414129552D37B4Fb12D058Cf1596B960d25b2`
 
+## Instalation
+
+```
+git@github.com:mikrodinet/hextris.git
+```
+```
+gh repo clone mikrodinet/hextris
+```
+```
+https://github.com/mikrodinet/hextris.git
+```
+
+[DOWNLOAD ZIP](https://github.com/mikrodinet/hextris/archive/refs/heads/master.zip)
+
+
 ## License
 Copyright (C) 2018 Logan Engstrom
 
